@@ -18,7 +18,6 @@ Bu proje, NBA oyuncularının sezonluk istatistiklerine dayanarak bir oyuncunun 
 - NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
-- Jupyter Notebook
+- Colab
 
-## Dosya Yapısı
 
